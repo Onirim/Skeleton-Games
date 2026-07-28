@@ -44,11 +44,24 @@ Plusieurs tests existent dans le Skeleton System, qui permettent de déterminer 
 
 ## Test d'attribut
 
-Pour réaliser un test d'attribut (compétence ou résistance), 1d100 doit être lancé et le résultat du dé doit être inférieur ou égal à la valeur de la compétence testée.
+Pour réaliser un test d'attribut (compétence ou résistance), 1d100 doit être lancé et le résultat du dé doit être inférieur ou égal à la valeur de la compétence testée. Un résultat de 01 est toujours un succès, un résultat de 100 est toujours un échec, quel que soit la valeur ajustée testée.
 
-### Résultat critique (option)
+### Ajustement de difficulté
 
-Lorsqu'un dé produit un double naturel (11, 22, 55, etc.) il s'agit d'un résultat critique. Si le test est réussi, alors il s'agit d'une réussite critique. Si le test est échoué, alors il s'agit d'un échec critique. Un tel échec n'a pas de conséquence en terme mécanique mais peut en avoir dans la fiction.
+Un test d'attribut est basé sur la valeur de l'attribut testé (compétence ou résistance). Le MJ peut accorder un bonus ou un malus à un test en fonction de sa difficulté.
+
+| Difficulté | Modificateur |
+| --- | --- |
+| Très facile | +20 |
+| Facile | +10 |
+| Assez difficile | - |
+| Difficile | -10 |
+| Très difficile | -20 |
+| Cauchemardesque | -30 |
+
+### Résultat critique
+
+Lorsqu'un dé produit un double naturel (11, 22, 55, etc.) il s'agit d'un résultat critique. Si le test est réussi, alors il s'agit d'une réussite critique qui permet au personnage d'effacer une case de stress mentale. Si le test est échoué, alors il s'agit d'un échec critique et le personnage coche une case de stress mentale.
 
 ## test opposé
 
