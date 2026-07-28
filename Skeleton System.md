@@ -44,7 +44,7 @@ Plusieurs tests existent dans le Skeleton System, qui permettent de déterminer 
 
 ## Test d'attribut
 
-Pour réaliser un test d'attribut (compétence ou résistance), 1d100 doit être lancé et le résultat du dé doit être inférieur ou égal à la valeur de la compétence testée. Un résultat de 01 est toujours un succès, un résultat de 100 est toujours un échec, quel que soit la valeur ajustée testée.
+Pour réaliser un test d'attribut (compétence ou résistance), 1d100 doit être lancé et le résultat du dé doit être inférieur ou égal à la valeur de la compétence testée. Un résultat naturel sur les dés de 01 est toujours un succès, un résultat naturel de de 100 est toujours un échec, quel que soit la valeur ajustée testée.
 
 ### Ajustement de difficulté
 
