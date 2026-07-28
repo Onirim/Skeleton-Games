@@ -61,7 +61,7 @@ Un test d'attribut est basé sur la valeur de l'attribut testé (compétence ou 
 
 ### Résultat critique
 
-Lorsqu'un dé produit un double naturel (11, 22, 55, etc.) il s'agit d'un résultat critique. Si le test est réussi, alors il s'agit d'une réussite critique qui permet au personnage d'effacer une case de stress mentale. Si le test est échoué, alors il s'agit d'un échec critique et le personnage coche une case de stress mentale.
+Lorsqu'un dé produit un double naturel (11, 22, 55, etc.) il s'agit d'un résultat critique. Si le test est réussi, alors il s'agit d'une réussite critique qui permet au personnage d'effacer une case de stress mentale. Si le test est échoué, alors il s'agit d'un échec critique et le personnage coche une case de stress mental ou physique (dicté par la fiction).
 
 ## test opposé
 
